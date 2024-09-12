@@ -12,7 +12,7 @@ I'm a high school sophomore with an interest in Aerospace Engineering and Comput
 - **Hobbies:** When I'm not coding, you can find me playing the bass guitar 🎸.
 
 ## Projects
-I'm currently in the process of creating some personal projects. Stay tuned for updates!
+Im currently working on [**Gulf**](https://github.com/Bruhatt-Rao/gulf) a JS display library using the HTML canvas and [**Cinnamon**](https://github.com/Bruhatt-Rao/cinnamon) a scripting language that compiles to batch!
 
 ## Get in Touch
 You can email me at `bruhatt.rao@gmail.com`
