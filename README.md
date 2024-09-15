@@ -5,8 +5,8 @@ I'm a high school sophomore with an interest in Aerospace Engineering and Comput
 - **Interests:** Aerospace Engineering, Computer Science
   
 ### **Languages:**
-| Python | Vanilla JS and Node | Rust | C and C++ |
-| ------ | ------------------- | ---- | --------- |
+| Python🐍 | Vanilla JS and Node  | Rust🦀 | C and C++ |
+| -------- | ------------------- | ------ | --------- |
 
 
 - **Hobbies:** When I'm not coding, you can find me playing the bass guitar 🎸.
