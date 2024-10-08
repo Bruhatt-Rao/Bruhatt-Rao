@@ -16,3 +16,4 @@ Im currently working on [**Gulf**](https://github.com/Bruhatt-Rao/gulf) a JS dis
 
 ## Get in Touch
 You can email me at `bruhatt.rao@gmail.com`
+Check out my website [here](https://bruhatt.me/)
