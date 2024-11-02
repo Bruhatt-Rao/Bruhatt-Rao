@@ -1,4 +1,4 @@
-### Hi there, I'm Bhim! 👋
+### Hi there, I'm Bhim! 
 I'm a high school sophomore with an interest in Aerospace Engineering and Computer Science. I'm currently working on building some exciting projects.
 
 ## About Me
