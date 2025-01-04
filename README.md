@@ -2,7 +2,8 @@
 I'm a high school sophomore with an interest in Aerospace Engineering and Computer Science. I'm currently working on building some exciting projects.
 
 ## About Me
-- **Interests:** | Simulating Algorithms | Machine Learning |
+- **Interests:**
+| Simulating Algorithms | Machine Learning |
   
 ### **Languages:**
 | Python🐍 | Vanilla JS and Node  | Rust🦀 | C and C++ |
